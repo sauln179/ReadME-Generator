@@ -14,3 +14,8 @@ The following had to be completed:<br>
 
 -Creates a table of content, and make each link clickable.<br>
 ![Screen Shot 2022-04-02 at 1 40 36 PM](https://user-images.githubusercontent.com/79173328/161400432-4ef23646-170b-48d5-bb20-879d23884019.png)<br>
+
+There is also a video with a live demonstration here.<br>
+
+# Video
+https://drive.google.com/file/d/1FuGSQMSy6mRzz0qmsHc2m2msev0VVrtn/view?usp=sharing <br>

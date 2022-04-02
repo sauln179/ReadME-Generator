@@ -1,3 +1,3 @@
-# Professional README Generator Starter Code
+# ReadME-Generator
+In this challenge, we were required to create a README generator, by only using the command line.
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)

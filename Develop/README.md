@@ -1,12 +1,12 @@
 
   # ReadME Generator
-  ## ISC
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  ## MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
  
   # Description:
-  This project shall utilize user input in order to generate a read me file without the need of html.
+  Allows the user to create a readme file by utilizing the commandline.
 
   # Table of Content:
 
@@ -17,16 +17,16 @@
 - [Questions](#questions)
 
 # Installation
-Required inquirer and fs 
+Installed Inquirer, and fs.
 
 # Usage
-In order to generate a professional ReadME for a project.
+To create a readme file without anything else than user input.
 
 # Contributing
-Again, simply by using this it would be much appreciated.
+Give feedback.
 
 # Test
-Just follow the prompts.
+First, open terminal, then cd directory to Develop, and finally run node index.
 
 # Questions
 Here is the following information to reach the creator:
@@ -34,3 +34,4 @@ Here is the following information to reach the creator:
 - Github Username: [sauln179](https://github.com/sauln179)
 - Email Address: saulnavarro179@gmail.com
 
+ 
